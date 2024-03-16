@@ -1,4 +1,4 @@
-package ch.keepcalm.kboot.shell.commands.legacy
+package ch.keepcalm.kboot.shell.commands.legacyannotation
 
 import org.springframework.shell.standard.ShellComponent
 import org.springframework.shell.standard.ShellMethod
