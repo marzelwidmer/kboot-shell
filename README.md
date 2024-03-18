@@ -21,5 +21,5 @@ cp target/kboot-shell bin/
 ```
 
 ```bash
-./target/kboot-shell create --create bar
+./target/kboot-shell create bar
 ```

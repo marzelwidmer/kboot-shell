@@ -5,6 +5,8 @@ spring:
     history:
       file:
         enabled: false
+
+## disable console logging
 logging:
-  level:
-    root: off
+  pattern:
+    console:
